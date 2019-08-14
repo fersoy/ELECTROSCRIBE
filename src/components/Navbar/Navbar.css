@@ -1,0 +1,21 @@
+.homeButton {
+    font-weight: bold;
+}
+
+.sidenav {
+    width: 250px;
+    background: linear-gradient(to right, rgb(153, 99, 145), rgb(87, 184, 206));
+}
+
+.sideLinks {
+    color: blue;
+}
+
+.sideLinks:hover {
+    color: rgb(149, 149, 209);
+}
+
+.brand-logo {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
